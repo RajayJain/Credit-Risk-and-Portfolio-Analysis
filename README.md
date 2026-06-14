@@ -102,41 +102,41 @@ The analysis covers the following dashboard views and analytical dimensions:
 
 | Funded Amount by Month | Amount Received by Month |
 |---|---|
-| <img src="images/01_Total_Funded_Amount_by_Month.png" alt="Total Funded Amount by Month" width="100%"> | <img src="images/02_Total_Received_Amount_by_Month.png" alt="Total Received Amount by Month" width="100%"> |
+| <img src="Images/01_Total_Funded_Amount_by_Month.png" alt="Total Funded Amount by Month" width="100%"> | <img src="Images/02_Total_Received_Amount_by_Month.png" alt="Total Received Amount by Month" width="100%"> |
 
 | Loan Applications by Month |
 |---|
-| <img src="images/03_Total_Loan_Application_by_Month.png" alt="Total Loan Applications by Month" width="100%"> |
+| <img src="Images/03_Total_Loan_Application_by_Month.png" alt="Total Loan Applications by Month" width="100%"> |
 
 ### 🗺️ Regional Performance
 
 | Funded Amount by State | Amount Received by State |
 |---|---|
-| <img src="images/04_Total_Funded_Amount_by_State.png" alt="Total Funded Amount by State" width="100%"> | <img src="images/05_Total_Amount_Received_by_State.png" alt="Total Amount Received by State" width="100%"> |
+| <img src="Images/04_Total_Funded_Amount_by_State.png" alt="Total Funded Amount by State" width="100%"> | <img src="Images/05_Total_Amount_Received_by_State.png" alt="Total Amount Received by State" width="100%"> |
 
 ### ⏳ Loan Term Performance
 
 | Funded Amount by Term | Amount Received by Term |
 |---|---|
-| <img src="images/06_Total_Funded_Amount_by_Term.png" alt="Total Funded Amount by Term" width="100%"> | <img src="images/07_Total_Amount_Received_by_Term.png" alt="Total Amount Received by Term" width="100%"> |
+| <img src="Images/06_Total_Funded_Amount_by_Term.png" alt="Total Funded Amount by Term" width="100%"> | <img src="Images/07_Total_Amount_Received_by_Term.png" alt="Total Amount Received by Term" width="100%"> |
 
 ### 👔 Borrower Employment Profile
 
 | Funded Amount by Employment Length | Amount Received by Employment Length |
 |---|---|
-| <img src="images/08_Total_Funded_Amount_by_Employee_Length.png" alt="Total Funded Amount by Employment Length" width="100%"> | <img src="images/09_Total_Amount_Received_by_Employee_Length.png" alt="Total Amount Received by Employment Length" width="100%"> |
+| <img src="Images/08_Total_Funded_Amount_by_Employee_Length.png" alt="Total Funded Amount by Employment Length" width="100%"> | <img src="Images/09_Total_Amount_Received_by_Employee_Length.png" alt="Total Amount Received by Employment Length" width="100%"> |
 
 ### 🎯 Loan Purpose Performance
 
 | Funded Amount by Loan Purpose | Amount Received by Loan Purpose |
 |---|---|
-| <img src="images/10_Total_Funded_Amount_by_Loan_Purpose.png" alt="Total Funded Amount by Loan Purpose" width="100%"> | <img src="images/11_Total_Amount_Received_by_Loan_Purpose.png" alt="Total Amount Received by Loan Purpose" width="100%"> |
+| <img src="Images/10_Total_Funded_Amount_by_Loan_Purpose.png" alt="Total Funded Amount by Loan Purpose" width="100%"> | <img src="Images/11_Total_Amount_Received_by_Loan_Purpose.png" alt="Total Amount Received by Loan Purpose" width="100%"> |
 
 ### 🏠 Home Ownership Performance
 
 | Funded Amount by Home Ownership | Amount Received by Home Ownership |
 |---|---|
-| <img src="images/12_Total_Funded_Amount_by_Home_Ownership.png" alt="Total Funded Amount by Home Ownership" width="100%"> | <img src="images/13_Total_Amount_Received_by_Home_Ownership.png" alt="Total Amount Received by Home Ownership" width="100%"> |
+| <img src="Images/12_Total_Funded_Amount_by_Home_Ownership.png" alt="Total Funded Amount by Home Ownership" width="100%"> | <img src="Images/13_Total_Amount_Received_by_Home_Ownership.png" alt="Total Amount Received by Home Ownership" width="100%"> |
 
 ## 🔎 Key Findings
 
