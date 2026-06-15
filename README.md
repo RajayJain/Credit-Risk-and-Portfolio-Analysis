@@ -1,11 +1,13 @@
 # 🏦 Bank Loan Analysis
 
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Domain](https://img.shields.io/badge/Domain-Banking%20%26%20Finance-blue)
-![Tool](https://img.shields.io/badge/BI-Power%20BI-yellow)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy%20%7C%20Seaborn-3776AB)
-![Dataset](https://img.shields.io/badge/Dataset-38.6K%20Loan%20Records-purple)
-![Focus](https://img.shields.io/badge/Focus-Risk%20%7C%20Profitability%20%7C%20Portfolio%20Health-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Project Status">
+  <img src="https://img.shields.io/badge/Domain-Banking%20%26%20Finance-blue" alt="Domain">
+  <img src="https://img.shields.io/badge/BI-Power%20BI-yellow" alt="Power BI">
+  <img src="https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy%20%7C%20Seaborn-3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Dataset-38.6K%20Loan%20Records-purple" alt="Dataset">
+  <img src="https://img.shields.io/badge/Focus-Risk%20%7C%20Profitability%20%7C%20Portfolio%20Health-orange" alt="Focus">
+</p>  
 
 ## 📌 Project Overview
 
