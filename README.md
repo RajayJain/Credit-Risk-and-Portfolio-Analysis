@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Analysis
+# 🏦 Credit Risk and Portfolio Analysis
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Project Status">
@@ -203,9 +203,9 @@ Mortgage holders generate the highest funded amount and repayment volume, indica
 ## 🧱 Project Structure
 
 ```text
-Bank Loan Analysis/
+Credit Risk and Portfolio Analysis/
 │
-├── Bank Loan Analysis.pbix
+├── Credit Risk and Portfolio Analysis.pbix
 │   └── Interactive Power BI dashboard
 │
 ├── Bank_Loan_Analysis.ipynb
@@ -217,7 +217,7 @@ Bank Loan Analysis/
 ├── Business Problem.pdf
 │   └── Business requirements and KPI definition
 │
-├── Bank Loan Analysis Report.pdf
+├── Credit Risk and Portfolio Analysis Report.pdf
 │   └── Final project report with insights and recommendations
 │
 ├── Bank-Loan-Analysis-Project-Report.pptx
@@ -257,11 +257,11 @@ The notebook includes the following preparation steps:
 
 ## 🚀 How to Use This Project
 
-1. Open `Bank_Loan_Analysis.ipynb` in Jupyter Notebook.
+1. Open `Credit Risk and Portfolio_Analysis.ipynb` in Jupyter Notebook.
 2. Confirm that `financial_loan.csv` is available in the project folder.
 3. Run the notebook cells from top to bottom to reproduce the EDA and KPI calculations.
-4. Open `Bank Loan Analysis.pbix` in Power BI Desktop to explore the interactive dashboard.
-5. Review `Bank Loan Analysis Report.pdf` for the final written analysis.
+4. Open `Credit Risk and Portfolio Analysis.pbix` in Power BI Desktop to explore the interactive dashboard.
+5. Review `Credit Risk and Portfolio Analysis Report.pdf` for the final written analysis.
 
 ## 💡 Business Recommendations
 
